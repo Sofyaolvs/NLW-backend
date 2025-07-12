@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1751945881307,
+      "tag": "0000_common_landau",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752105841698,
+      "tag": "0001_big_warbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752351617424,
+      "tag": "0002_aspiring_lightspeed",
+      "breakpoints": true
+    }
+  ]
+}
